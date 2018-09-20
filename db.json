@@ -1,5 +1,11 @@
 {
-  "get-download-token": {
-    "token": "ABCDEFGHIJKLMNOPQRSTUWVXYZ"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
